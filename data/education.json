@@ -1,0 +1,33 @@
+[
+  {
+          "school":"[IBM Tealeaf](https://coursera.org/share/6e75f465771ab2ccf7064c85305078db)",
+          "degree":"Database and SQL for Data Science with Python",
+          "major":"DataScience",
+          "range":"May 2021"
+      },
+      {
+              "school":"[coursera John Hopkins University](http://coursera.org/verify/TS3ZLSEWYKQA)",
+              "degree":"R Programming",
+              "range":"September 2019"
+          },
+          {
+              "school":"[Udemy](UC-HTDF5RPS)",
+              "degree":"Python and introductin to datascience Certification",
+              "major":"Datascience",
+              "range":"July 2019"
+          },
+
+{
+        "school":"[University of Connecticut](https://uconn.edu/)",
+        "degree":"Master of Science",
+        "major":"Electrical Engineering",
+        "range":"2009 - 2011"
+    },
+    {
+        "school":"[Sandeepani School of VLSI Design](https://www.sandeepani-training.com/)",
+        "degree":"Diploma in VLSI Design",
+        "major":"VLSI DESIGN",
+        "range":"2007 - 2008"
+    }
+
+]

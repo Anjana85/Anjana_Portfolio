@@ -1,0 +1,47 @@
+title = "Anjana P Suresh"
+baseURL = "https://github.com/Anjana85/Anjana_Portfolio/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+canonifyURLS = true
+
+[params]
+address = "928 S Fairfield Dr, Stillwater, OK 74074"
+email = "anjana.ps85 [at] gmail [dot] com"
+favicon = "/favicon.ico"
+firstName = "Anjana"
+lastName = "Suresh"
+profileImage = "img/AnjanaProfile.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = true
+showPublications = true
+showQr = false
+showSkills = true
+
+
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/anjana-puthoor-suresh"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/Anjana85/Anjana85"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://www.facebook.com/anjana.p.s.94/"
+name = "facebook"
+[[params.handles]]
+link = "https://www.twitter.com/@Anjana49006179/"
+name = "twitter"
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

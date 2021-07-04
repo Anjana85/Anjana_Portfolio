@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Data Scientist",
+        "company":"Oklahoma State University",
+        "summary": "Developed models to analyze,predict and optimize mass spectrometry-based data  using advanced analytics and machine learning (ML). Developed new codes to analyze mass spectrometry-based data and successfully completed three projects utilizing R and SAS to interpret big data. Work got published in scientific journals ",
+        "range":"August 2017 - Present"
+    },
+    {
+        "role":"Adjunct Instructor",
+        "company":"Oklahoma City Community College",
+        "summary":"Taught Web Designing course for undergraduate students. Demonstrated project, time, and administrative management skills.",
+        "range":"August 2019 - December 2019"
+    },
+    {
+        "role":"Research Assistant",
+        "company":"University of Connecticut.",
+        "summary":"Implemented continuous devops pipelines automationing",
+        "range":"Jan 2009 - Jan 2013"
+    }
+]
